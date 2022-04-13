@@ -1,4 +1,4 @@
-package collection.list;
+package jcf.list;
 
 import java.util.*;
 
